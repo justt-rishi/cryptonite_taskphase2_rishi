@@ -41,9 +41,9 @@ mess with the decoder settings to get the flag. After a long session of trial an
 
 From here on it was simple as it was just noting down the flag and submitting it.
 
-<img width="959" alt="Flag pic" src="https://github.com/user-attachments/assets/166d31eb-ee45-4b58-b28f-84fee2a6926b" />
+<img width="959" alt="Flag pic" src="https://github.com/user-attachments/assets/576809ad-91dc-4e31-92e2-b1b7c09d2a67" />
 
-<img width="959" alt="flag pic 2" src="https://github.com/user-attachments/assets/0827bb0d-342e-407e-9e91-918fd105f756" />
+<img width="959" alt="flag pic 2" src="https://github.com/user-attachments/assets/ac99ea2f-d0f0-4fbf-ad27-3f7ac0dab087" />
 
 I had a roller-coaster ride trying to solve these challenges as they were extremely hard, but at the same time super fun and engaging. I wish to participate in more of these
 types of challenges and learn more. Thank you so much for this opportunity Team Cryptonite.
